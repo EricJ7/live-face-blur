@@ -1,5 +1,5 @@
 # live-face-blur
-This project is a Python-based program that uses the OpenCV library to stream live video directly from a webcam. It provides a variety of features for interacting with the video stream, including saving frames as images and applying real-time face detection and blurring.
+This project is a Python-based program that uses the OpenCV library to stream live video directly from a webcam. It provides a variety of features for interacting with the video stream, including saving frames as images and applying real-time face detection and blurring through the use of **convolutions**, Gaussian blur specifically, and utilizing OpenCV's pre trained haar cascade classifier for face detection.
 
 Features:
 - Real-Time Webcam Streaming: The program captures live video from the webcam and displays it in real-time.
